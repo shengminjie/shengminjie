@@ -1,33 +1,10 @@
-# shengminjie
-The best way to write secure and reliable applications. Write nothing; deploy nowhere. copy from kelseyhightower
-
-No Code
-No code is the best way to write secure and reliable applications. Write nothing; deploy nowhere.
-
-Getting Started
-Start by not writing any code.
+## Hey, ShengMinjie here! :wave:
 
 
-This is just an example application, but imagine it doing anything you want. Adding new features is easy too:
+I'm **S**heng **M**in**J**ie, a DBA from Chongqing, China.
 
+-   :package: No more time edit this page
+-   :pencil2: So simple first
+-   :seedling: [My Badges](https://www.youracclaim.com/users/minjie-sheng/badges)
 
-The possibilities are endless.
-
-Building the Application
-Now that you have not done anything it's time to build your application:
-
-
-Yep. That's it. You should see the following output:
-
-
-Deploying
-While you still have not done anything it's time to deploy your application. By running the following command you can deploy your application absolutely nowhere.
-
-
-It's that simple. And when it comes time to scale the application, all you have to do is:
-
-
-I know right?
-
-Contributing
-You don't.
+---
